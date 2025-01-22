@@ -1,0 +1,39 @@
+D:\Education\Other\Student Manegement System\Student Manegement System\bin\Debug\Student Manegement System.exe.config
+D:\Education\Other\Student Manegement System\Student Manegement System\bin\Debug\Student Manegement System.exe
+D:\Education\Other\Student Manegement System\Student Manegement System\bin\Debug\Student Manegement System.pdb
+D:\Education\Other\Student Manegement System\Student Manegement System\obj\Debug\Student Manegement System.csprojResolveAssemblyReference.cache
+D:\Education\Other\Student Manegement System\Student Manegement System\obj\Debug\Student_Manegement_System.mnuMain.resources
+D:\Education\Other\Student Manegement System\Student Manegement System\obj\Debug\Student_Manegement_System.Properties.Resources.resources
+D:\Education\Other\Student Manegement System\Student Manegement System\obj\Debug\Student Manegement System.csproj.GenerateResource.Cache
+D:\Education\Other\Student Manegement System\Student Manegement System\obj\Debug\Student Manegement System.exe
+D:\Education\Other\Student Manegement System\Student Manegement System\obj\Debug\Student Manegement System.pdb
+D:\Education\Other\Student Manegement System\Student Manegement System\obj\Debug\Student_Manegement_System.frmAddStudent.resources
+D:\Education\Other\Student Manegement System\Student Manegement System\obj\Debug\Student_Manegement_System.frmEditStudent.resources
+D:\Education\Other\Student Manegement System\Student Manegement System\obj\Debug\Student_Manegement_System.frmLogin.resources
+D:\Education\Other\Student Manegement System\Student Manegement System\obj\Debug\Student_Manegement_System.frmRemoveStudent.resources
+D:\Education\Other\Esoft\Student Manegement System\Student Manegement System\bin\Debug\Student Manegement System.exe.config
+D:\Education\Other\Esoft\Student Manegement System\Student Manegement System\obj\Debug\Student Manegement System.exe
+D:\Education\Other\Esoft\Student Manegement System\Student Manegement System\obj\Debug\Student Manegement System.pdb
+D:\Education\Other\Esoft\Student Manegement System\Student Manegement System\obj\Debug\Student Manegement System.csprojResolveAssemblyReference.cache
+D:\Education\Other\Esoft\Student Manegement System\Student Manegement System\obj\Debug\Student_Manegement_System.mnuMain.resources
+D:\Education\Other\Esoft\Student Manegement System\Student Manegement System\obj\Debug\Student_Manegement_System.frmAddStudent.resources
+D:\Education\Other\Esoft\Student Manegement System\Student Manegement System\obj\Debug\Student_Manegement_System.frmEditStudent.resources
+D:\Education\Other\Esoft\Student Manegement System\Student Manegement System\obj\Debug\Student_Manegement_System.frmLogin.resources
+D:\Education\Other\Esoft\Student Manegement System\Student Manegement System\obj\Debug\Student_Manegement_System.frmRemoveStudent.resources
+D:\Education\Other\Esoft\Student Manegement System\Student Manegement System\obj\Debug\Student Manegement System.csproj.GenerateResource.Cache
+D:\Education\Other\Esoft\Student Manegement System\Student Manegement System\bin\Debug\Student Manegement System.exe
+D:\Education\Other\Esoft\Student Manegement System\Student Manegement System\bin\Debug\Student Manegement System.pdb
+D:\Education\Other\Esoft\Student Manegement System\Student Manegement System\obj\Debug\Student_Manegement_System.Properties.Resources.resources
+D:\Education\Other\Visual Studio\Esoft\Student Manegement System\Student Manegement System\bin\Debug\Student Manegement System.exe.config
+D:\Education\Other\Visual Studio\Esoft\Student Manegement System\Student Manegement System\obj\Debug\Student Manegement System.exe
+D:\Education\Other\Visual Studio\Esoft\Student Manegement System\Student Manegement System\obj\Debug\Student Manegement System.pdb
+D:\Education\Other\Visual Studio\Esoft\Student Manegement System\Student Manegement System\bin\Debug\Student Manegement System.exe
+D:\Education\Other\Visual Studio\Esoft\Student Manegement System\Student Manegement System\bin\Debug\Student Manegement System.pdb
+D:\Education\Other\Visual Studio\Esoft\Student Manegement System\Student Manegement System\obj\Debug\Student Manegement System.csprojResolveAssemblyReference.cache
+D:\Education\Other\Visual Studio\Esoft\Student Manegement System\Student Manegement System\obj\Debug\Student_Manegement_System.mnuMain.resources
+D:\Education\Other\Visual Studio\Esoft\Student Manegement System\Student Manegement System\obj\Debug\Student_Manegement_System.frmAddStudent.resources
+D:\Education\Other\Visual Studio\Esoft\Student Manegement System\Student Manegement System\obj\Debug\Student_Manegement_System.frmEditStudent.resources
+D:\Education\Other\Visual Studio\Esoft\Student Manegement System\Student Manegement System\obj\Debug\Student_Manegement_System.frmLogin.resources
+D:\Education\Other\Visual Studio\Esoft\Student Manegement System\Student Manegement System\obj\Debug\Student_Manegement_System.frmRemoveStudent.resources
+D:\Education\Other\Visual Studio\Esoft\Student Manegement System\Student Manegement System\obj\Debug\Student_Manegement_System.Properties.Resources.resources
+D:\Education\Other\Visual Studio\Esoft\Student Manegement System\Student Manegement System\obj\Debug\Student Manegement System.csproj.GenerateResource.Cache
